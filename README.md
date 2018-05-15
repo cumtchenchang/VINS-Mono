@@ -1,3 +1,7 @@
+Set euroc_config.yaml in /vins-mono/config/euroc before run, such as output_path: "/config/euroc/vins_result.csv" (may be set absolute path)
+
+
+
 # VINS-Mono
 ## A Robust and Versatile Monocular Visual-Inertial State Estimator
 **29 Dec 2017**: New features: Add map merge, pose graph reuse, online temporal calibration function, and support rolling shutter camera. Map reuse videos: 
